@@ -7,6 +7,23 @@
  *
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
+
+.perf{
+    width: 75px;
+	height: 75px;
+}
+
+#centro
+{
+	    width: 375px;
+	height: 375px;
+}
+
+.circulo
+{
+	border-radius: 50%;
+}
+
 .clearfix {
  *zoom: 1;
 }
